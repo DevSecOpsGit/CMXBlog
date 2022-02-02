@@ -21,3 +21,7 @@ module.exports = {
       .loader("vue-svg-loader");
   },
 };
+
+// https://DevSecOpsGit1.gitlab.io/cmxblog.io
+
+

@@ -1,13 +1,5 @@
 .DS_Store
 node_modules
-firebase.json
-firestore.rules
-firestore.indexes.json
-storage.rules
-/dist
-src/firebase
-
-src/assets/
 
 
 # local env files
@@ -28,5 +20,4 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-.firebaserc
 
